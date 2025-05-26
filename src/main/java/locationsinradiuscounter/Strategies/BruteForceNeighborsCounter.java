@@ -20,7 +20,6 @@ public class BruteForceNeighborsCounter {
      * range.
      * @return An array of int where each element at index i is the count of
      * neighbors found for location with id=i.
-     * 
      */
     public static int[] getNeighborsCount(ArrayList<Location> locations, StrategyParameters parameters) {
         BigDecimal range = parameters.getRange();
