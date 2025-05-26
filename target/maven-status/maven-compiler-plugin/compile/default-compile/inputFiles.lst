@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Config.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Containers\InputDataContainer.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Containers\ResultContainer.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\LocationsInRradiusCounter.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Models\BoundingBox.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Models\Location.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\parameters\ReaderParameters.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\parameters\StrategyParameters.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\parameters\WriterParameters.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Readers\LocationsReader.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Services\LocationsFinder.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Services\LocationsNeighborsCounter.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Services\LocationsSorting.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Strategies\BruteForceNeighborsCounter.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Strategies\PlaneGridNeighborsCounter.java
+C:\Users\user\Desktop\PRJ\NeighborPointsWithDistanceLessThanCounter\LocationsInRadiusCounter\src\main\java\locationsinradiuscounter\Writers\OptimalLocationsWriter.java
